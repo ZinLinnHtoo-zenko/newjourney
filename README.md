@@ -1,4 +1,4 @@
 # newjourney
 I'm practicing
 
-live demo: https://zinlinnhtoo567.github.io/newjourney/
+live demo: https://zinlinnhtoo-zenko.github.io/newjourney/
